@@ -1,0 +1,13 @@
+{
+  "name": "s13m4-gp",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "httpie": "^1.1.2",
+    "pip": "^0.0.1",
+    "python": "^3.12.3"
+  }
+}
